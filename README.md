@@ -39,3 +39,8 @@ In summary, Animated Buttons in Flutter elevate the user experience by adding in
 
 
 
+
+![](https://github.com/MustafaRazaUllah/imagesAndGifs/blob/main/downloadAnimatedButton.gif)
+
+
+
