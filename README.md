@@ -37,8 +37,7 @@ Incorporating animated buttons in your app can give you a competitive edge by se
 
 In summary, Animated Buttons in Flutter elevate the user experience by adding interactivity, visual appeal, and feedback to your app, making it more engaging, user-friendly, and competitive in the market.
 
-
-
+![]()
 
 ![](https://github.com/MustafaRazaUllah/imagesAndGifs/blob/main/downloadAnimatedButton.gif)
 
